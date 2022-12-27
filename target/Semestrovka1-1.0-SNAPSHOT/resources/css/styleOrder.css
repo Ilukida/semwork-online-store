@@ -1,0 +1,34 @@
+body{
+	width: 100%;
+}
+.list-group{
+	width: 300px;
+}
+.head-title{
+	color: black;
+	background:blue;
+}
+.spec-container{
+	margin:60px 20px 30px 280px;
+}
+.footer{
+	margin:110px 50px 0px 50px;
+	padding: 50px 30px 10px 30px;
+}
+.text_color{
+	color: 
+}
+.form-control{
+	height: 45px;
+}
+.btn{
+	position: relative;
+	padding: 16px 260px 16px 260px;
+	margin: 10px 10px;
+}
+.center{
+	justify-content: center;
+	text-align: center;
+	margin-top:100px;
+	margin-bottom: 40px;
+}
