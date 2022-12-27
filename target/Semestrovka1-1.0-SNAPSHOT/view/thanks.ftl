@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <h2 class="mt-5">Спасибо за ваше замечание!</h2>
-    <p><strong>В скром времени мы исправим все проблемы!)</strong></p>
+    <p><strong>В скром времени мы исправим все проблемы!</strong></p>
     <a href="/profile" class="button1">Вернуться к профилю</a>
 </div>
 </body>

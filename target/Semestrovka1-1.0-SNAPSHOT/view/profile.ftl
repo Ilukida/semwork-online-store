@@ -1,5 +1,3 @@
-<#-- @ftlvariable name="user" type="ru.itis.dto.UserDto" -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

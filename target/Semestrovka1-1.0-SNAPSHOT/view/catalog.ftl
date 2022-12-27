@@ -14,7 +14,6 @@
 </head>
 <body>
 
-
 <a href="/profile" class="button1">Вернуться к профилю</a>
 <main class="text-center">
 

@@ -87,7 +87,7 @@
 
 <footer class="center">
     <div >
-        <p class="mb-1">&copy;2021 Shahzobet</p>
+        <p class="mb-1">&copy;2022t</p>
         <ul class="list-inline">
             <li class="list-inline-item"><a href="/support">Support</a></li>
         </ul>

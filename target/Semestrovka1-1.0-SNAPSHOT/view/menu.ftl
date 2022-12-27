@@ -14,7 +14,7 @@
             <li id="con"><a href="/liked"><div class="button_text">Избранное</div></a></li>
             <li id="id"><a href="/catalog"><div class="button_text">Каталог</div></a></li>
             <li id="exe"><a href="/all-orders"><div class="button_text">Все заказы</div></a></li>
-            <li id="exq"><a href="/support"><div class="button_text">Центр поддержки</div></a></li>
+            <li id="exq"><a href="/support"><div class="button_text">Поддержка</div></a></li>
             <li id="ex"><a href="/sign-out"><div class="button_text">Выход</div></a></li>
         </ul>
     </div>

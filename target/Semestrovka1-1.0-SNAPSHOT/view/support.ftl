@@ -12,7 +12,7 @@
 <div class="container">
 
     <div  class="form-center-content">
-        <h2 class="mt-5">Центр поддержки</h2>
+        <h2 class="mt-5">Поддержка</h2>
 
         <form action="/support" method="post">
             <div class = "form-floating">
